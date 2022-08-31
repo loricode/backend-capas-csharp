@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cfyTlivHupfWpR00Udc9RmEafZCX4M2KrxXpdtjDC/nqa/0JpXCMdaxXu6M/HRLEAyz4JHH1u2jqQTrq8+gi2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\source\\repos\\sales\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
